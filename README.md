@@ -68,6 +68,8 @@ This dashboard provides a detailed summary of a call center’s performance acro
 3. Use the built-in slicers and pivot charts to explore the dashboard.
 4. Interact with filters to analyze performance by Representative, City, Customer, etc.
 
+![image alt](https://github.com/hiteshbehera/excel_call_centre_report_/blob/91dbbc698a440298cf8bf64642f3637dce10a249/Dashboard%20Snapshot.png)
+
 ---
 ## 🧑‍💻 Author
 Hitesh Behera
