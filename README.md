@@ -70,10 +70,7 @@ This dashboard provides a detailed summary of a call center’s performance acro
 
 ---
 ## 🧑‍💻 Author
-**Hitesh Behera**  
+Hitesh Behera
+📧 [hkbehera307@gmail.com]
+🔗 [https://www.linkedin.com/in/hitesh-behera-572838367/] 
 
----
-
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
